@@ -11,7 +11,7 @@
 # マンガでわかるRuby② オブジェクト指向編
 
 <a href="https://llminatoll.booth.pm/items/1573974">
-  <img alt="マンガでわかるRuby② 表紙" src="https://booth.pximg.net/c/620x620/adc63749-2e60-4592-81a4-0783ad4e9699/i/1573974/1ac3e3ef-9489-4d8d-8626-ceb593d29535_base_resized.jpg">
+  <img alt="マンガでわかるRuby② 表紙" src="https://booth.pximg.net/c/620x620/adc63749-2e60-4592-81a4-0783ad4e9699/i/1573974/1ac3e3ef-9489-4d8d-8626-ceb593d29535_base_resized.jpg" width="300px">
 </a>
 
 技術書典7 新刊です。 
@@ -32,7 +32,7 @@
 # マンガでわかるRuby① 基本・再帰関数編
 
 <a href="https://booth.pm/ja/items/1306534">
-  <img alt="マンガでわかるRuby① 表紙" src="https://booth.pximg.net/adc63749-2e60-4592-81a4-0783ad4e9699/i/1306534/e0f262b7-d64c-4638-b42b-bb71717034d6_base_resized.jpg">
+  <img alt="マンガでわかるRuby① 表紙" src="https://booth.pximg.net/adc63749-2e60-4592-81a4-0783ad4e9699/i/1306534/e0f262b7-d64c-4638-b42b-bb71717034d6_base_resized.jpg" width="300px">
 </a>
 
 

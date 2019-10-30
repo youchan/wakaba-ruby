@@ -8,6 +8,9 @@
 
 掲載プログラムのソースコードを公開しています。
 
+# Herokuデプロイ
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## マンガでわかるRuby② オブジェクト指向編
 
 <a href="https://llminatoll.booth.pm/items/1573974">

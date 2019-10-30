@@ -8,8 +8,9 @@
 
 掲載プログラムのソースコードを公開しています。
 
-# Herokuデプロイ
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## SlackbotをHerokuにデプロイするには
+[マンガでわかるRuby②の中で作るbotをHerokuにデプロイする方法をこちらにまとめました](https://scrapbox.io/llminatoll/Slackbot%E3%82%92Heroku%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4)。
+ご参考ください。
 
 ## マンガでわかるRuby② オブジェクト指向編
 
